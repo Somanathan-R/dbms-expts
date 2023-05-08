@@ -1,2 +1,2 @@
 # dbms-expts
-DBMS expts 1-12
+DBMS expt weeks 1-12
